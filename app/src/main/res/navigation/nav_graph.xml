@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/income_menu">
+
+    <fragment
+        android:id="@+id/consumption_menu"
+        android:name="com.fedx.familybudget.screen.consumption.ConsumptionFragment"
+        android:label="consumption_fragment"
+        tools:layout="@layout/consumption_fragment" />
+    <fragment
+        android:id="@+id/income_menu"
+        android:name="com.fedx.familybudget.screen.income.IncomeFragment"
+        android:label="fragment_income"
+        tools:layout="@layout/income_fragment" />
+    <fragment
+        android:id="@+id/total_menu"
+        android:name="com.fedx.familybudget.screen.total.TotalFragment"
+        android:label="fragment_total"
+        tools:layout="@layout/total_fragment" />
+</navigation>

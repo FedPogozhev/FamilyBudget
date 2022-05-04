@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Family Budget</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="signin_google">Sign Up using Google</string>
+    <string name="income">Income (Доходы)</string>
+    <string name="consumption">Consumption (Расходы)</string>
+    <string name="comment">Комментарий</string>
+    <string name="sum">сумма</string>
+    <string name="add">Добавить</string>
+    <string name="sort_of_date">Указать период</string>
+    <string name="logOut">Выйти</string>
+    <string name="select_month">Выберите месяц:</string>
+
+    <string-array name="income">
+        <item>такси</item>
+        <item>перевод такси</item>
+        <item>выручка с магазина</item>
+        <item>перевод магазин</item>
+        <item>шабашка</item>
+    </string-array>
+
+    <string-array name="consumption">
+        <item>кофе</item>
+        <item>обед</item>
+        <item>продукты</item>
+        <item>заправка</item>
+        <item>хлеб</item>
+        <item>лекарства</item>
+        <item>сотовая связь</item>
+    </string-array>
+
+</resources>

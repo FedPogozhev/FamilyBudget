@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1068134173159",
+    "firebase_url": "https://budget-28434-default-rtdb.firebaseio.com",
+    "project_id": "budget-28434",
+    "storage_bucket": "budget-28434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068134173159:android:6021f095ab324002141542",
+        "android_client_info": {
+          "package_name": "com.fedx.familybudget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068134173159-24c1fp3iqvl5e9r6f7vshut5s3e23ese.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fedx.familybudget",
+            "certificate_hash": "44fc060b6abf5921f6222044e7b284672752ae69"
+          }
+        },
+        {
+          "client_id": "1068134173159-b4gd27hb7vr2hqn7g85ia1ebaa6doogk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtPHUntsA_mn9wpduuFqm9ITI9kgrS1Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068134173159-b4gd27hb7vr2hqn7g85ia1ebaa6doogk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
